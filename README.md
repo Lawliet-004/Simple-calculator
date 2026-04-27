@@ -1,12 +1,12 @@
-** 🧮 Simple Calculator **
+# 🧮 Simple calculator
 
 Hi there! I'm a beginner programmer currently learning C#, and this is one of my projects built with it!
 
-*Features*
+## Features
 
-Addition and subtraction of two integers
-Input validation to ensure only valid numbers are accepted
-Simple and clean console interface
+- Addition and subtraction of two integers
+- Input validation to ensure only valid numbers are accepted
+- Simple and clean console interface
 
 ## How to Run
 
@@ -22,8 +22,7 @@ Simple and clean console interface
    cd Simple-calculator
    ```
 
-3. **Run the game**
+3. **Run the app**
    ```bash
    dotnet run
    ```
-   
