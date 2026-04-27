@@ -1,0 +1,14 @@
+C:\Users\drago\Desktop\CsharpProjects_2\Project 5\TestProject\obj\Debug\net10.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\Desktop\CsharpProjects_2\Project 5\TestProject\obj\Debug\net10.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\drago\Desktop\CsharpProjects_2\Project 5\TestProject\obj\Debug\net10.0\TestProject.AssemblyInfo.cs
+C:\Users\drago\Desktop\CsharpProjects_2\Project 5\TestProject\obj\Debug\net10.0\TestProject.csproj.CoreCompileInputs.cache
+c:\Users\drago\Desktop\CsharpProjects_2\Project 5\TestProject\bin\Debug\net10.0\TestProject.exe
+c:\Users\drago\Desktop\CsharpProjects_2\Project 5\TestProject\bin\Debug\net10.0\TestProject.deps.json
+c:\Users\drago\Desktop\CsharpProjects_2\Project 5\TestProject\bin\Debug\net10.0\TestProject.runtimeconfig.json
+c:\Users\drago\Desktop\CsharpProjects_2\Project 5\TestProject\bin\Debug\net10.0\TestProject.dll
+c:\Users\drago\Desktop\CsharpProjects_2\Project 5\TestProject\bin\Debug\net10.0\TestProject.pdb
+c:\Users\drago\Desktop\CsharpProjects_2\Project 5\TestProject\obj\Debug\net10.0\TestProject.dll
+c:\Users\drago\Desktop\CsharpProjects_2\Project 5\TestProject\obj\Debug\net10.0\refint\TestProject.dll
+c:\Users\drago\Desktop\CsharpProjects_2\Project 5\TestProject\obj\Debug\net10.0\TestProject.pdb
+c:\Users\drago\Desktop\CsharpProjects_2\Project 5\TestProject\obj\Debug\net10.0\TestProject.genruntimeconfig.cache
+c:\Users\drago\Desktop\CsharpProjects_2\Project 5\TestProject\obj\Debug\net10.0\ref\TestProject.dll
